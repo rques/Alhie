@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    }
+#card1{   
+    width: 100%;
+    height: 320px;
+    background-color: black;
+    margin-top: 20%;
+}
+#titulos{
+
+    display: flex;
+    margin-left: 20px;
+    gap: 600px;
+    margin-top: -20px;
+}
+#titulo1{ 
+    font-size: 90px;
+}
+#titulo2{ 
+    font-size: 45px;
+}
+#titulo3{ 
+    font-size: 45px;
+}
