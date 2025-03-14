@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.bolsas{
+    width: 400px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: -90px;
+    border: 5px black solid;
+    border-radius: 5px;
+    
+}
+#card1{   
+    width: 100%;
+    height: 320px;
+    background-color: black;
+    margin-top: 9%;
+}
+#card2{
+    width: 100%;
+    height: 320px;
+    background-color: black;
+    margin-top: 15%;
+    gap: 50px;
+    
+}
+#titulos{
+
+    display: flex;
+    margin-left: 28px;
+    gap: 670px;
+    margin-top: -20px;
+}
+#textos{
+    display: flex;
+    gap: 80px;
+    margin-left: 350px;
+    margin-top: 35px;
+    font-size: 15px;
+
+}
+#texto3{
+    margin-top: 100px;
+    margin-left: 37%;
+    font-size: 25px;
+}
+#titulo1{ 
+    font-size: 90px;
+}
+#titulo2{ 
+    font-size: 45px;
+}
+#titulo3{ 
+    font-size: 45px;
+}
+#imagem{
+    margin-top: -150px;
+    margin-left: 27%;
+    width: 900px;
+    height: 550px;
+    border: 5px black solid;
+    border-radius: 5px;
+    
+}
